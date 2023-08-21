@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gitt/static/css/main.e7ea8952.css",
-    "main.js": "/react-gitt/static/js/main.bc9788d2.js",
-    "static/js/787.e01df7c6.chunk.js": "/react-gitt/static/js/787.e01df7c6.chunk.js",
-    "index.html": "/react-gitt/index.html",
-    "main.e7ea8952.css.map": "/react-gitt/static/css/main.e7ea8952.css.map",
-    "main.bc9788d2.js.map": "/react-gitt/static/js/main.bc9788d2.js.map",
-    "787.e01df7c6.chunk.js.map": "/react-gitt/static/js/787.e01df7c6.chunk.js.map"
+    "main.css": "/static/css/main.e7ea8952.css",
+    "main.js": "/static/js/main.06db71c7.js",
+    "static/js/787.e01df7c6.chunk.js": "/static/js/787.e01df7c6.chunk.js",
+    "index.html": "/index.html",
+    "main.e7ea8952.css.map": "/static/css/main.e7ea8952.css.map",
+    "main.06db71c7.js.map": "/static/js/main.06db71c7.js.map",
+    "787.e01df7c6.chunk.js.map": "/static/js/787.e01df7c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7ea8952.css",
-    "static/js/main.bc9788d2.js"
+    "static/js/main.06db71c7.js"
   ]
 }
