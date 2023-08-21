@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gantt-React/static/css/main.e7ea8952.css",
-    "main.js": "/Gantt-React/static/js/main.769febad.js",
-    "static/js/787.e01df7c6.chunk.js": "/Gantt-React/static/js/787.e01df7c6.chunk.js",
-    "index.html": "/Gantt-React/index.html",
-    "main.e7ea8952.css.map": "/Gantt-React/static/css/main.e7ea8952.css.map",
-    "main.769febad.js.map": "/Gantt-React/static/js/main.769febad.js.map",
-    "787.e01df7c6.chunk.js.map": "/Gantt-React/static/js/787.e01df7c6.chunk.js.map"
+    "main.css": "/react-gitt/static/css/main.e7ea8952.css",
+    "main.js": "/react-gitt/static/js/main.bc9788d2.js",
+    "static/js/787.e01df7c6.chunk.js": "/react-gitt/static/js/787.e01df7c6.chunk.js",
+    "index.html": "/react-gitt/index.html",
+    "main.e7ea8952.css.map": "/react-gitt/static/css/main.e7ea8952.css.map",
+    "main.bc9788d2.js.map": "/react-gitt/static/js/main.bc9788d2.js.map",
+    "787.e01df7c6.chunk.js.map": "/react-gitt/static/js/787.e01df7c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7ea8952.css",
-    "static/js/main.769febad.js"
+    "static/js/main.bc9788d2.js"
   ]
 }
